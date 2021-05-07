@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open about.html",
-            "file": "c:\\Site\\site-sasystems\\about.html"
+            "file": "C:\\Users\\Suporte\\Documents\\GitHub\\site-sasystems\\index.html"
         }
     ]
 }
